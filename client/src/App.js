@@ -17,7 +17,7 @@ const styles = theme => ({
     overflowX: "auto"
   },
   table:{
-    minwidth:1080
+    minWidth:1080
   }
 })
 
